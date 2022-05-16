@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class calculadora {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
-
+/*teste de comentario*/
         int a,b;
 
         System.out.println("Digite o primeiro numero: ");
